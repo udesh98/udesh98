@@ -1,4 +1,4 @@
-![Header](./udeshheaderNew.png)
+![Header](./udeshheader.png)
 <h3 align="center">Technology Exposure</h3>
 <p align="center"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
