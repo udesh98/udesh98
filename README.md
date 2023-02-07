@@ -55,8 +55,9 @@
 
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:um4me.98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/udesh-maduranga-6163711a5/)
-[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_udesh___)
-![Hackerrank](https://img.shields.io/badge/hackerrank-%230A0A0A.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_udesh___)
+[![Stack Overflow](https://img.shields.io/badge/stackoverflow-%231DA1F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange)](https://stackoverflow.com/users/20779631/udesh)
+[![Hackerrank](https://img.shields.io/badge/hackerrank-%230A0A0A.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/)
 
 ### Familiar Operating Systems & Tools
 
